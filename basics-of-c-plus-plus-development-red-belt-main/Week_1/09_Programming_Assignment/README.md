@@ -38,7 +38,7 @@ template <typename C> ??? Paginate(C& c, size_t page_size)
 
 Файл с заготовкой решения задачи
 
-[paginator.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/09%20Programming%20Assignment/Source/paginator.cpp)
+[paginator.cpp](Source/paginator.cpp)
 
 Возможно, в шаблоне у вас будет некорректно работать вызов ASSERT_EQUAL в функции TestLooping. Разберитесь, почему это происходит, внесите правку в свою локальную версию файла test_runner.h, чтобы подобная ошибка не возникала в других задачах.
 
@@ -46,8 +46,10 @@ template <typename C> ??? Paginate(C& c, size_t page_size)
 
 Для этой задачи есть набор подсказок, которые должны помочь вам с решением. Если вам не удаётся решить задачу и вы чувствуете, что у вас кончились идеи, вы можете ими воспользоваться. Но сначала обязательно попробуйте решить задачу без подсказок.
 
-[Подсказска 1](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/09%20Programming%20Assignment/help1.pdf)
+[Подсказска 1](help1.pdf)
 
-[Подсказска 2](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/09%20Programming%20Assignment/help2.pdf)
+[Подсказска 2](help2.pdf)
 
-[Подсказска 3](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/09%20Programming%20Assignment/help3.pdf)
+[Подсказска 3](help3.pdf)
+
+# [Решение](Solution/paginator.cpp)
