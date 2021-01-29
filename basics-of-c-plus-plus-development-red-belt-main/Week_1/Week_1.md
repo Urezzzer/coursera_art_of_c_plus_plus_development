@@ -3,10 +3,10 @@
 
 * [Задание 1](01_Practice_Programming_Assignment/README.md) Тестовое задание
 * [Задание 2](02_Practice_Programming_Assignment/README.md) Макрос Logger
-* Задание 3
-* Задание 4
-* Задание 5
-* Задание 6
-* Задание 7
-* Задание 8
-* Задание 9
+* [Задание 3](03_Programming_Assignment/README.md)
+* [Задание 4](04_Programming_Assignment/README.md)
+* [Задание 5](05_Programming_Assignment/README.md)
+* [Задание 6](06_Practice_Programming_Assignment/README.md)
+* [Задание 7](07_Practice_Programming_Assignment/README.md)
+* [Задание 8](08_Programming_Assignment/README.md)
+* [Задание 9](09_Programming_Assignment/README.md)
