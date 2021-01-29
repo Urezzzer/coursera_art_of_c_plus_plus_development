@@ -19,4 +19,4 @@
 [Подсказка 3](help3.pdf)
 [Подсказка 4](help4.pdf)
 
-# [Решение](Solution/print_values.cpp)
+# [Решение](Solution/bad_macro.cpp)
