@@ -1,5 +1,5 @@
 # Неделя 2
-## [Конспект](week2.pdf) Макросы и шаблоны классов
+## [Конспект](week2.pdf) Принципы оптимизации кода, сложность алгоритмов и эффективное использование ввода/вывода
 
 * [Задание 1](01_Practice_Programming_Assignment/README.md) Тестовое задание
 * [Задание 2](02_Practice_Programming_Assignment/README.md) Макрос Logger
