@@ -1,4 +1,4 @@
-# [Искусство разработки на современном С++] (https://www.coursera.org/specializations/c-plus-plus-modern-development)
+# [Искусство разработки на современном С++](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 
 ![alt-текст](img.jpg)
 
