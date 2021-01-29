@@ -1,8 +1,8 @@
 ## Неделя 1 Макросы и шаблоны классов
 
-* [Вводное задание](01 Practice Programming Assignment/README.md)
+* [Вводное задание](01_Practice_Programming_Assignment/README.md)
 *
 *
 *
 
-[Assigment]() Коспект лекции первой недели
+[Assigment](Макросы и шаблоны классов.pdf) Коспект лекции первой недели
