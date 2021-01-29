@@ -30,4 +30,4 @@ P.S. В файле max_element_if.cpp используется заголово�
 
 [test_runner.h](Source/test_runner.h)
 
-# [Решение](Solution/test_runner.cpp)
+# [Решение](Solution/max_element_if.cpp)
