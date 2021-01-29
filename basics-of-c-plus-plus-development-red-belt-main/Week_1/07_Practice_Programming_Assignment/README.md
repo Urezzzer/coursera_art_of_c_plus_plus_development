@@ -13,4 +13,6 @@
 
 Заготовка решения задачи:
 
-[table.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/07%20Practice%20Programming%20Assignment/Source/table.cpp)
+[table.cpp](Source/table.cpp)
+
+# [Решение](Solution/table.cpp)
