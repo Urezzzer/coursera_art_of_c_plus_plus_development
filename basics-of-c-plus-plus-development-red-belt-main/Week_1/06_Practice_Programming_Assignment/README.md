@@ -22,3 +22,5 @@ int UNIQ_ID = 5; string UNIQ_ID = "hello"; // оба определения на
 * подумайте, как можно применить макрос __LINE__
 * ознакомьтесь с [конкатенацией в макросах](https://gcc.gnu.org/onlinedocs/cpp/Concatenation.html#Concatenation)
 * а также с [макросами в качестве параметров других макросов](https://stackoverflow.com/questions/4364971/and-in-macros)
+
+# [Решение](Solution/uniq_id.cpp)
