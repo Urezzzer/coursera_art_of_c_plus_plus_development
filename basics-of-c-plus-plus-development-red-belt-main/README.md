@@ -14,4 +14,4 @@
 
 ## [Неделя 6](Week_6/Week_6.md)
 
-[Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-red)
+Продолжение специализации - [Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-red)
