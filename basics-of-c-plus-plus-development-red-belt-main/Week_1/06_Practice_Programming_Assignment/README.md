@@ -13,7 +13,7 @@ string UNIQ_ID = "hello!";
 int UNIQ_ID = 5; string UNIQ_ID = "hello"; // оба определения на одной строке
 ```
 
-[uniq_id.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/06%20Practice%20Programming%20Assignment/Source/uniq_id.cpp)
+[uniq_id.cpp](Source/uniq_id.cpp)
 
 не будет компилироваться. Заготовка решения:
 
