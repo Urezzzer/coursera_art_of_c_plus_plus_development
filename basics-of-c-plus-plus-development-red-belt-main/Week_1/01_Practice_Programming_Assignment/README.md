@@ -29,3 +29,5 @@ ForwardIterator max_element_if(
 P.S. В файле max_element_if.cpp используется заголовочный файл test_runner.h. Это юнит-тест фреймворк, который мы разработали в «Жёлтом поясе по C++».
 
 [test_runner.h](Source/test_runner.h)
+
+# [Решение](Solution/test_runner.cpp)
