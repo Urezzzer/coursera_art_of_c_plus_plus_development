@@ -117,7 +117,7 @@ void TestSearchServer(istream& document_input, istream& query_input,
 
 Смотрите юнит-тесты в заготовке решения для более подробного ознакомления с тем, как должен работать класс SearchServer
 
-[course_project_first_part.zip](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/Source/course_project_first_part.zip)
+[course_project_first_part.zip](Source/course_project_first_part.zip)
 
 ### Вторая часть задачи ###
 
@@ -160,28 +160,30 @@ void TestSearchServer(vector<pair<istream, ostream*>> streams) {
 
 ### Подсказки для первой части ###
 
-[Подсказка 1](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_1.pdf)
+[Подсказка 1](Help/help_1_1.pdf)
 
-[Подсказка 2](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_2.pdf)
+[Подсказка 2](Help/help_1_2.pdf)
 
-[Подсказка 3](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_3.pdf)
+[Подсказка 3](Help/help_1_3.pdf)
 
-[Подсказка 4](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_4.pdf)
+[Подсказка 4](Help/help_1_4.pdf)
 
-[Подсказка 5](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_5.pdf)
+[Подсказка 5](Help/help_1_5.pdf)
 
-[Подсказка 6](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_6.pdf)
+[Подсказка 6](Help/help_1_6.pdf)
 
-[Подсказка 7](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_7.pdf)
+[Подсказка 7](Help/help_1_7.pdf)
 
-[Подсказка 8](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_1_8.pdf)
+[Подсказка 8](Help/help_1_8.pdf)
 
 ### Подсказки для второй части ###
 
-[Подсказка 1](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_2_1.pdf)
+[Подсказка 1](Help/help_2_1.pdf)
 
-[Подсказка 2](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_2_2.pdf)
+[Подсказка 2](Help/help_2_2.pdf)
 
-[Подсказка 3](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_2_3.pdf)
+[Подсказка 3](Help/help_2_3.pdf)
 
-[Подсказка 4](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_6/01%20Programming%20Assignment/help_2_4.pdf)
+[Подсказка 4](Help/help_2_4.pdf)
+
+# [Решение]()
