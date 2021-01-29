@@ -41,4 +41,4 @@ bool Compare(Student first, Student second) {
 
 [sort_students.cpp](Source/sort_students.cpp)
 
-# [Решение](Solution/sort_students.cpp)
+# [Решение](Solution/compare_student.cpp)
