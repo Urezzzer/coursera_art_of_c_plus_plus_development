@@ -66,6 +66,8 @@ void UpdateTicket(AirlineTicket& ticket, const map<string, string>& updates) {
 * содержит макрос UPDATE_FIELD
 * содержит определения операторов, необходимых для считывания классов Date и Time из потока istream и их использования в макросе ASSERT_EQUAL (формат ввода смотрите в юнит-тестах в файле update_field.cpp)
 
-[update_field.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/04%20Programming%20Assignment/Source/update_field.cpp)
+[update_field.cpp](Source/update_field.cpp)
 
-[airline_ticket.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/04%20Programming%20Assignment/Source/airline_ticket.h)
+[airline_ticket.h](airline_ticket.h)
+
+# [Решение](Solution/update_field.cpp)
