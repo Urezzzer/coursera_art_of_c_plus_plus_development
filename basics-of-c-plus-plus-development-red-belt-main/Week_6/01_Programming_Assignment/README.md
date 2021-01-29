@@ -186,4 +186,4 @@ void TestSearchServer(vector<pair<istream, ostream*>> streams) {
 
 [Подсказка 4](Help/help_2_4.pdf)
 
-# [Решение]()
+# [Решение](Help/help_2_4.pdf)
