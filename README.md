@@ -1,24 +1,14 @@
-# Искусство разработки на современном С++
+# [Искусство разработки на современном С++] (https://www.coursera.org/specializations/c-plus-plus-modern-development)
 
 ![alt-текст](img.jpg)
 
-| Basic Info | Course 3 of 5 in the [Искусство разработки на современном C++ Specialization](https://www.coursera.org/learn/c-plus-plus-red)|
-| ------------- | ------------- |
-| Level | Intermediate |
-| Language | Russian |
-| How To Pass | Pass all graded assignments to complete the course. |
-| User Ratings | Average User Rating 4.8 [See what learners said](https://www.coursera.org/learn/c-plus-plus-red#ratings)|
+Практика разработки на современном С++. Обучение навыку создания качественных программ.
 
-## [Неделя 1](week_1.md) 
+Специализация состоит из 5 курсов, от самых основ до средств senior-разработки.
+Здесь представлены 3 курса т.к. материал белого пояса мне был известен и я его не проходил, а когда я занимался на желтом поясе, я ещё не дружил с GitHub'ом
 
-## [Неделя 2](week_2.md) 
+## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-red-belt-main/README.md) 
 
-## [Неделя 3](week_3.md) 
+## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-brown-belt-main/README.md) 
 
-## [Неделя 4](week_4.md)
-
-## [Неделя 5](week_5.md)
-
-## [Неделя 6](week_6.md)
-
-[Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-red)
+## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-black-belt-main/README.md)
