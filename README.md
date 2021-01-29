@@ -10,6 +10,6 @@
 
 ## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-red-belt-main/README.md) 
 
-## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-brown-belt-main/README.md) 
+## [Основы разработки на современном С++. Коричневый пояс](basics-of-c-plus-plus-development-brown-belt-main/README.md) 
 
-## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-black-belt-main/README.md)
+## [Основы разработки на современном С++. Черный пояс](basics-of-c-plus-plus-development-black-belt-main/README.md)
