@@ -1,6 +1,6 @@
 ## Неделя 1 Макросы и шаблоны классов
 
-* [Вводное задание](01_Practice_Programming_Assignment/README.md)
+* [Вводное задание](01+: = 0 =: +Practice+: = 0 =: +Programming+: = 0 =: +Assignment/README.md)
 *
 *
 *
