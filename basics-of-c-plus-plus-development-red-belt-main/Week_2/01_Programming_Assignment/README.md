@@ -37,6 +37,8 @@ bool Compare(Student first, Student second) {
 
 Пришлите на проверку файл, содержащий оптимизированную версию функции Compare. Если ваша реализация будет недостаточно эффективной, то решение не уложится в ограничение по времени.\
 
-[student.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/01%20Programming%20Assignment/Source/student.h)
+[student.h](Source/student.h)
 
-[sort_students.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/01%20Programming%20Assignment/Source/sort_students.cpp)
+[sort_students.cpp](Source/sort_students.cpp)
+
+# [Решение](Solution/sort_students.cpp)
