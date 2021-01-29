@@ -15,4 +15,5 @@
 * WEEK 4 ---> [Open](Week_4)
 * WEEK 5 ---> [Open](Week_5)
 * WEEK 6 ---> [Open](Week_6)
+
 [Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-red)
