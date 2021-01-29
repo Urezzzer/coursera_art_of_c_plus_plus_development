@@ -8,5 +8,5 @@
 * [Задание 5](05_Programming_Assignment/README.md) Исправление плохого макроса
 * [Задание 6](06_Practice_Programming_Assignment/README.md) Макрос UNIQ_ID
 * [Задание 7](07_Practice_Programming_Assignment/README.md) Шаблонный класс Table для электронной таблицы
-* [Задание 8](08_Programming_Assignment/README.md)
+* [Задание 8](08_Programming_Assignment/README.md) Дек на основе двух векторов
 * [Задание 9](09_Programming_Assignment/README.md)
