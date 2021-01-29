@@ -59,6 +59,8 @@ void SortTickets(vector<AirlineTicket>& tixs) {
 * содержит макрос SORT_BY
 * содержит определения операторов, необходимых для использования классов Date и Time в алгоритме сортировки и макросе ASSERT_EQUAL (формат вывода в поток можете выбрать произвольный)
 
-[airline_ticket.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/03%20Programming%20Assignment/Source/airline_ticket.h)
+[airline_ticket.h](Source/airline_ticket.h)
 
-[sort_by.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_1/03%20Programming%20Assignment/Source/sort_by.cpp)
+[sort_by.cpp](Source/sort_by.cpp)
+
+# [Решение](Solution/sort_by.cpp)
