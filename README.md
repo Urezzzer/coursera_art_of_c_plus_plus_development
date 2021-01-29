@@ -8,8 +8,8 @@
 
 Здесь представлены 3 курса т.к. материал белого пояса мне был известен и я его не проходил, а когда я занимался на желтом поясе, я ещё не дружил с GitHub'ом
 
-## [Основы разработки на современном С++. Красный пояс](basics-of-c-plus-plus-development-red-belt-main/README.md) 
+## [Основы разработки на современном С++: красный пояс](basics-of-c-plus-plus-development-red-belt-main/README.md) 
 
-## [Основы разработки на современном С++. Коричневый пояс](basics-of-c-plus-plus-development-brown-belt-main/README.md) 
+## [Основы разработки на современном С++: коричневый пояс](basics-of-c-plus-plus-development-brown-belt-main/README.md) 
 
-## [Основы разработки на современном С++. Черный пояс](basics-of-c-plus-plus-development-black-belt-main/README.md)
+## [Основы разработки на современном С++: чёрный пояс](basics-of-c-plus-plus-development-black-belt-main/README.md)
