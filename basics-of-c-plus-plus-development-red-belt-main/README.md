@@ -17,4 +17,8 @@
 
 ## [Неделя 4](week_4.md)
 
+## [Неделя 5](week_5.md)
+
+## [Неделя 6](week_6.md)
+
 [Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-red)
