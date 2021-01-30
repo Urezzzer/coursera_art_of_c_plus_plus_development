@@ -31,4 +31,6 @@ private:
 
 ##### Заготовка решения: #####
 
-[object_pool.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_3/01%20Programming%20Assignment/Source/object_pool.cpp)
+[object_pool.cpp](Source/object_pool.cpp)
+
+# [Решение](Solution/object_pool.cpp)
