@@ -59,4 +59,4 @@ map<string, vector<int>>* r = nullptr;
 
 Вы можете использовать nullptr для инициализации указателя в конструкторе по умолчанию.
 
-# [Решение](Solution/simple_vector.cpp)
+# [Решение](Solution/)
