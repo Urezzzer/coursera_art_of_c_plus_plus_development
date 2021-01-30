@@ -31,4 +31,6 @@ void MergeSort(RandomIt range_begin, RandomIt range_end);
 
 ### Файл с заготовкой решения ###
 
-[merge_sort_3.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/06%20Programming%20Assignment/Source/merge_sort_3.cpp)
+[merge_sort_3.cpp](Source/merge_sort_3.cpp)
+
+# [Решение](Solution/merge_sort_3.cpp)
