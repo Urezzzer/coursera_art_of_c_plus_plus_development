@@ -60,7 +60,7 @@ CHEER 1
 
 ##### Правильное, но медленное решение #####
 
-[slow.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/Source/slow.cpp)
+[slow.cpp](Source/slow.cpp)
 
 ##### Подсказки #####
 
@@ -68,12 +68,14 @@ CHEER 1
 
 Не нужно открывать все подсказки сразу. Используйте их последовательно.
 
-[ebook-1.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/ebook-1.pdf)
+[ebook-1.pdf](ebook-1.pdf)
 
-[ebook-2.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/ebook-2.pdf)
+[ebook-2.pdf](ebook-2.pdf)
 
-[ebook-3.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/ebook-3.pdf)
+[ebook-3.pdf](ebook-3.pdf)
 
-[ebook-4.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/ebook-4.pdf)
+[ebook-4.pdf](ebook-4.pdf)
 
-[ebook-5.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/ebook-5.pdf)
+[ebook-5.pdf](ebook-5.pdf)
+
+# [Решение](Solution/)
