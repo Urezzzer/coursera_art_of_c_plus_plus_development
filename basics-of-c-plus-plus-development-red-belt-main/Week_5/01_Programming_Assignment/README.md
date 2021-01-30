@@ -22,4 +22,6 @@ void MakeJosephusPermutation(
 
 Вам дано решение данной задачи, копирующее элементы и не укладывающееся в ограничения по времени, но в остальном корректное. Вы можете исправить его или написать своё.
 
-[josephus_permutation.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/01%20Programming%20Assignment/Source/josephus_permutation.cpp)
+[josephus_permutation.cpp](Source/josephus_permutation.cpp)
+
+# [Решение](Solution/josephus_permutation.cpp)
