@@ -61,7 +61,7 @@ private:
 
 ### Файл с заготовкой решения ###
 
-[priority_collection_2.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/07%20Programming%20Assignment/Source/priority_collection_2.cpp)
+[priority_collection_2.cpp](Source/priority_collection_2.cpp)
 
 ### Ограничения ###
 
@@ -73,10 +73,12 @@ private:
 
 Не нужно открывать все подсказки сразу. Используйте их последовательно.
 
-[priority-collection-1.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/07%20Programming%20Assignment/priority-collection-1.pdf)
+[priority-collection-1.pdf](priority-collection-1.pdf)
 
-[priority-collection-2.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/07%20Programming%20Assignment/priority-collection-2.pdf)
+[priority-collection-2.pdf](priority-collection-2.pdf)
 
-[priority-collection-3.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/07%20Programming%20Assignment/priority-collection-3.pdf)
+[priority-collection-3.pdf](priority-collection-3.pdf)
 
-[priority-collection-4.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/07%20Programming%20Assignment/priority-collection-4.pdf)
+[priority-collection-4.pdf](priority-collection-4.pdf)
+
+# [Решение](Solution/priority_collection_2.cpp)
