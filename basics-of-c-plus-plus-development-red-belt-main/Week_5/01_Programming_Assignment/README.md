@@ -24,4 +24,4 @@ void MakeJosephusPermutation(
 
 [josephus_permutation.cpp](Source/josephus_permutation.cpp)
 
-# [Решение](Solution/josephus_permutation.cpp)
+# [Решение](Solution/permutation.cpp)
