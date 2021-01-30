@@ -14,4 +14,6 @@
 
 Примеры применения шаблонов смотрите в тестах в заготовке решения.
 
-[swap_sort_copy.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_3/02%20Practice%20Programming%20Assignment/Source/swap_sort_copy.cpp)
+[swap_sort_copy.cpp](Source/swap_sort_copy.cpp)
+
+# [Решение](Solution/swap_sort_copy.cpp)
