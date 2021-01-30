@@ -64,12 +64,14 @@ ROOMS Marriott
 
 Не нужно открывать все подсказки сразу. Используйте их последовательно.
 
-[booking-1.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/05%20Programming%20Assignment/booking-1.pdf)
+[booking-1.pdf](booking-1.pdf)
 
-[booking-2.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/booking-2.pdf)
+[booking-2.pdf](booking-2.pdf)
 
-[booking-3.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/booking-3.pdf)
+[booking-3.pdf](booking-3.pdf)
 
-[booking-4.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/booking-4.pdf)
+[booking-4.pdf](booking-4.pdf)
 
-[booking-5.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/04%20Programming%20Assignment/booking-5.pdf)
+[booking-5.pdf](booking-5.pdf)
+
+# [Решение](Solution/)
