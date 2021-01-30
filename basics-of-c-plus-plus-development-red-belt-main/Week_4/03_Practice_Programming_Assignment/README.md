@@ -29,4 +29,6 @@ private:
 
 ##### Файл с заготовкой решения #####
 
-[translator.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/03%20Practice%20Programming%20Assignment/Source/translator.cpp)
+[translator.cpp](Source/translator.cpp)
+
+# [Решение](Solution/translator.cpp)
