@@ -40,4 +40,6 @@ ASSERT_EQUAL(s_int.GetAccess().value, 5);
 
 ### Файл с заготовкой решения ###
 
-[synchronized.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/10%20Practice%20Programming%20Assignment/Source/synchronized.cpp)
+[synchronized.cpp](Source/synchronized.cpp)
+
+# [Решение](Solution/synchronized.cpp)
