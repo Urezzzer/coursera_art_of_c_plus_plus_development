@@ -56,7 +56,7 @@ private:
 
 ##### Файл с заготовкой решения и тестами #####
 
-[airport_counter.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/04%20Programming%20Assignment/Source/airport_counter.cpp)
+[airport_counter.cpp](Source/airport_counter.cpp)
 
 ##### Подсказки #####
 
@@ -64,6 +64,8 @@ private:
 
 Не нужно открывать все подсказки сразу. Используйте их последовательно.
 
-[airport-counter-1.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/04%20Programming%20Assignment/airport-counter-1.pdf)
+[airport-counter-1.pdf](airport-counter-1.pdf)
 
-[airport-counter-2.pdf](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/04%20Programming%20Assignment/airport-counter-2.pdf)
+[airport-counter-2.pdf](airport-counter-2.pdf)
+
+# [Решение](Solution/airport_counter.cpp)
