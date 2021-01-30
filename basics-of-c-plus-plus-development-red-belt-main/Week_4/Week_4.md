@@ -1,5 +1,5 @@
 # Неделя 4 
-## [Конспект](week_4.pdf) Макросы и шаблоны классов
+## [Конспект](week_4.pdf) Эффективное использование линейных контейнеров
 
 * [Задание 1](01_Practice_Programming_Assignment/README.md) 
 * [Задание 2](02_Practice_Programming_Assignment/README.md) 
