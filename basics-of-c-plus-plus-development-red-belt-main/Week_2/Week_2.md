@@ -5,4 +5,4 @@
 * [Задание 2](02_Programming_Assignment/README.md) Класс Learner
 * [Задание 3](03_Practice_Programming_Assignment/README.md) Cистема маршрутизации экспрессов
 * [Задание 4](04_Programming_Assignment/README.md) Система стимулирования чтения электронных книг
-* [Задание 5](05_Programming_Assignment/README.md) 
+* [Задание 5](05_Programming_Assignment/README.md) Система бронирования отелей
