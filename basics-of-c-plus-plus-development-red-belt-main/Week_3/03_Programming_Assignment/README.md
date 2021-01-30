@@ -39,9 +39,9 @@ private:
 
 ##### Заготовка решения #####
 
-[simple_vector.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_3/03%20Programming%20Assignment/Source/simple_vector.h)
+[simple_vector.h](Source/simple_vector.h)
 
-[simple_vector.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_3/03%20Programming%20Assignment/Source/simple_vector.cpp)
+[simple_vector.cpp](Source/simple_vector.cpp)
 
 ##### Замечание #####
 
@@ -58,3 +58,5 @@ map<string, vector<int>>* r = nullptr;
 ```
 
 Вы можете использовать nullptr для инициализации указателя в конструкторе по умолчанию.
+
+# [Решение](Solution/simple_vector.cpp)
