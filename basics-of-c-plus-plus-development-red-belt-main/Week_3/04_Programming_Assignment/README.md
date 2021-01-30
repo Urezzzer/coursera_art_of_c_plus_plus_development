@@ -38,4 +38,6 @@ private:
 
 ##### Файл с заготовкой решения #####
 
-[linked_list.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_3/04%20Programming%20Assignment/Source/linked_list.cpp)
+[linked_list.cpp](Source/linked_list.cpp)
+
+# [Решение](Solution/linked_list.cpp)
