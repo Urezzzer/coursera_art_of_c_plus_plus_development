@@ -50,4 +50,6 @@ Stats ExploreKeyWords(const set<string>& key_words, istream& input) {
 
 ### Файл с заготовкой решения ###
 
-[explore_key_words.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/09%20Programming%20Assignment/Source/explore_key_words.cpp)
+[explore_key_words.cpp](Source/explore_key_words.cpp)
+
+# [Решение](Solution/explore_key_words.cpp)
