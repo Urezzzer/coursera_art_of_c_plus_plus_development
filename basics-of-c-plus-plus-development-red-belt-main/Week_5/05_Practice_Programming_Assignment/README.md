@@ -13,6 +13,9 @@
 
 ### Файл с заготовкой решения ###
 
-[simple_vector_2.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/05%20Practice%20Programming%20Assignment/Source/simple_vector_2.h)
+[simple_vector_2.h](Source/simple_vector_2.h)
 
-[simple_vector_2.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/05%20Practice%20Programming%20Assignment/Source/simple_vector_2.cpp)
+[simple_vector_2.cpp](Source/simple_vector_2.cpp)
+
+
+# [Решение](Solution/split_into_sentences.cpp)
