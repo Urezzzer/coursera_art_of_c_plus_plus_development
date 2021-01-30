@@ -34,4 +34,7 @@ using Char = typename String::value_type;
 
 ### Файл с заготовкой решения ###
 
-[simple_vector_copy_assignment.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/03%20Practice%20Programming%20Assignment/Source/simple_vector_copy_assignment.cpp)
+[simple_vector_copy_assignment.cpp](Source/simple_vector_copy_assignment.cpp)
+
+
+# [Решение](Solution/simple_vector_copy_assignment.cpp)
