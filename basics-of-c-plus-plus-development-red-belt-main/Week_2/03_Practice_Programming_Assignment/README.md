@@ -50,3 +50,5 @@ GO 5 100
 ## Правильное, но медленное решение ##
 
 [slow.cpp](Source/slow.cpp)
+
+# [Решение](expresses.cpp)
