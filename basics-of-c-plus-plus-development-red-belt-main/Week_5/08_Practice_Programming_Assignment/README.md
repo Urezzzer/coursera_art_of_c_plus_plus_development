@@ -13,4 +13,7 @@
 
 ### Файл с заготовкой решения ###
 
-[matrix_sum.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/08%20Practice%20Programming%20Assignment/Source/matrix_sum.cpp)
+[matrix_sum.cpp](Source/matrix_sum.cpp)
+
+
+# [Решение](Solution/matrix_sum.cpp)
