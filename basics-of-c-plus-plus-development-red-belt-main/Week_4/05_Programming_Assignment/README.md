@@ -51,7 +51,7 @@ public:
 
 ### Заготовка решения ###
 
-[text_editor.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/05%20Programming%20Assignment/Source/text_editor.cpp)
+[text_editor.cpp](Source/text_editor.cpp)
 
 ### Ограничения ###
 
@@ -102,3 +102,5 @@ int main() {
 ```
 world, hello
 ```
+
+# [Решение](Solution/text_editor.cpp)
