@@ -34,4 +34,6 @@ using Sentence = vector<Token>;
 
 ### Файл с заготовкой решения ###
 
-[split_into_sentences.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/04%20Programming%20Assignment/Source/split_into_sentences.cpp)
+[split_into_sentences.cpp](Source/split_into_sentences.cpp)
+
+# [Решение](Solution/split_into_sentences.cpp)
