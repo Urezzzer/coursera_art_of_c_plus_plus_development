@@ -81,4 +81,4 @@ private:
 
 [priority-collection-4.pdf](priority-collection-4.pdf)
 
-# [Решение](Solution/priority_collection_2.cpp)
+# [Решение](Solution/priority_collection.cpp)
