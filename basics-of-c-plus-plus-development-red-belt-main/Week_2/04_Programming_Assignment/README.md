@@ -78,4 +78,4 @@ CHEER 1
 
 [ebook-5.pdf](ebook-5.pdf)
 
-# [Решение](Solution/)
+# [Решение](Solution/ebook.cpp)
