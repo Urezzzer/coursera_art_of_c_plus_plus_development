@@ -10,5 +10,5 @@
 * [Задание 7](07_Programming_Assignment/README.md) Шаблонный класс Table для электронной таблицы
 * [Задание 8](08_Practice_Programming_Assignment/README.md) Дек на основе двух векторов
 * [Задание 9](09_Programming_Assignment/README.md) Шаблон Paginator
-* [Задание 10](10_Programming_Assignment/README.md) Дек на основе двух векторов
+* [Задание 10](10_Practice_Programming_Assignment/README.md) Дек на основе двух векторов
 * [Задание 11](11_Programming_Assignment/README.md) Шаблон Paginator
