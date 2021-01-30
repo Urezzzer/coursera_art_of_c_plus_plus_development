@@ -1,5 +1,5 @@
 # Неделя 3
-## [Конспект](week_3.pdf) Макросы и шаблоны классов
+## [Конспект](week_3.pdf) Модель памяти в C++
 
 * [Задание 1](01_Programming_Assignment/README.md) Пул объектов
 * [Задание 2](02_Practice_Programming_Assignment/README.md) Swap, SortPointers, ReversedCopy
