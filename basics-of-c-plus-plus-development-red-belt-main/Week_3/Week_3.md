@@ -1,5 +1,5 @@
 # Неделя 3
-## [Конспект](week3.pdf) Макросы и шаблоны классов
+## [Конспект](week_3.pdf) Макросы и шаблоны классов
 
 * [Задание 1](01_Programming_Assignment/README.md) Тестовое задание
 * [Задание 2](02_Practice_Programming_Assignment/README.md) Макрос Logger
