@@ -1,5 +1,5 @@
 # Неделя 5
-## [Конспект](week_5.pdf) Макросы и шаблоны классов
+## [Конспект](week_5.pdf) Move-семантика и базовая многопоточность
 
 * [Задание 1](01_Programming_Assignment/README.md) 
 * [Задание 2](02_Practice_Programming_Assignment/README.md) 
