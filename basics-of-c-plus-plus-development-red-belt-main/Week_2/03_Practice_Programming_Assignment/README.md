@@ -49,4 +49,4 @@ GO 5 100
 
 ## Правильное, но медленное решение ##
 
-[slow.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/03%20Practice%20Programming%20Assignment/Source/slow.cpp)
+[slow.cpp](Source/slow.cpp)
