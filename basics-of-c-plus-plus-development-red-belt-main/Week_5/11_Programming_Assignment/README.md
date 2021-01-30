@@ -34,4 +34,6 @@ public:
 
 ### Файл с заготовкой решения ###
 
-[concurrent_map.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/11%20Programming%20Assignment/Source/concurrent_map.cpp)
+[concurrent_map.cpp](Source/concurrent_map.cpp)
+
+# [Решение](Solution/concurrent_map.cpp)
