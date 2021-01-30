@@ -49,4 +49,6 @@ using Char = typename String::value_type;
 
 ### Файл с заготовкой решения ###
 
-[group_heavy_strings.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_5/02%20Practice%20Programming%20Assignment/Source/group_heavy_strings.cpp)
+[group_heavy_strings.cpp](Source/group_heavy_strings.cpp)
+
+# [Решение](Solution/group_heavy_strings.cpp)
