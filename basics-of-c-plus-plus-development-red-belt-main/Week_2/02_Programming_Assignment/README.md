@@ -15,7 +15,7 @@ vector<string> KnownWords();
 
 Вам дан файл learner.cpp с медленным решением задачи. **Не меняя публичный интерфейс класса Learner**, найдите в нём узкие места, исправьте их и сдайте переделанный класс в тестирующую систему.
 
-[learner.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/02%20Programming%20Assignment/Source/learner.cpp)
+[learner.cpp](Source/learner.cpp)
 
 Ваш код будет тестироваться так:
 
@@ -43,4 +43,6 @@ int main() {
 
 Для этой задачи есть подсказка, которая должна помочь вам с решением. Если вам не удаётся решить задачу и вы чувствуете, что у вас кончились идеи, вы можете воспользоваться. Но сначала обязательно попробуйте решить задачу без подсказок.
 
-[Подсказка](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_2/02%20Programming%20Assignment/help1.pdf)
+[Подсказка](help1.pdf)
+
+# [Решение](Solution/learner.cpp)
