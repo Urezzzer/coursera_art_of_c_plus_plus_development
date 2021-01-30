@@ -1,5 +1,5 @@
 # Неделя 5
-## [Конспект](week5.pdf) Макросы и шаблоны классов
+## [Конспект](week_5.pdf) Макросы и шаблоны классов
 
 * [Задание 1](01_Practice_Programming_Assignment/README.md) Тестовое задание
 * [Задание 2](02_Practice_Programming_Assignment/README.md) Макрос Logger
@@ -10,3 +10,5 @@
 * [Задание 7](07_Practice_Programming_Assignment/README.md) Шаблонный класс Table для электронной таблицы
 * [Задание 8](08_Programming_Assignment/README.md) Дек на основе двух векторов
 * [Задание 9](09_Programming_Assignment/README.md) Шаблон Paginator
+* [Задание 10](08_Programming_Assignment/README.md) Дек на основе двух векторов
+* [Задание 11](09_Programming_Assignment/README.md) Шаблон Paginator
