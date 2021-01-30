@@ -33,4 +33,4 @@
 13
 ```
 
-# [Решение](Solution/)
+# [Решение](Solution/athlets.cpp)
