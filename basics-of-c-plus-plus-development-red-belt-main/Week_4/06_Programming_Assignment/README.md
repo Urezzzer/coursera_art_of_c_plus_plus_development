@@ -84,11 +84,11 @@ Stats ServeRequests(istream& input) {
 
 ### Заготовка решения ###
 
-[http_request.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/06%20Programming%20Assignment/Source/http_request.h)
+[http_request.h](Source/http_request.h)
 
-[stats.h](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/06%20Programming%20Assignment/Source/stats.h)
+[stats.h](Source/stats.h)
 
-[server_stats.cpp](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/Week_4/06%20Programming%20Assignment/Source/server_stats.cpp)
+[server_stats.cpp](Source/server_stats.cpp)
 
 ### Как будет тестироваться ваша посылка ###
 
@@ -99,3 +99,5 @@ Stats ServeRequests(istream& input) {
 * содержит функцию main с набором юнит-тестов для функции ServeRequests
 
 Ваш проект будет собран и запущен.
+
+# [Решение](Solution/)
