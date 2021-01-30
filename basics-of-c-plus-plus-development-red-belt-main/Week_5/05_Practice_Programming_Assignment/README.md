@@ -18,4 +18,4 @@
 [simple_vector_2.cpp](Source/simple_vector_2.cpp)
 
 
-# [Решение](Solution/split_into_sentences.cpp)
+# [Решение](Solution/simple_vector_2.h)
